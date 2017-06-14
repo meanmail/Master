@@ -1,3 +1,5 @@
+package ru.games.game_circles_Ball;
+
 import java.awt.*;
 
 class Ball extends Sprite {

@@ -1,3 +1,5 @@
+package ru.games.game_circles_Ball;
+
 import javax.swing.*;
 import java.awt.*;
 
